@@ -1,0 +1,7 @@
+# Publish only the wiki and the site generator. Never push source documents.
+raw/
+.obsidian/
+.claude/
+Claude.md
+CLAUDE.md
+.trash/
